@@ -1,0 +1,30 @@
+.wrapper-input{
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 25%);
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+form{
+    width: 560px;
+    height: 60px;
+}
+
+.wrapper-input input {
+    position: relative;
+    background: transparent;
+    border: none;
+    outline: none;
+    width: 100%;
+    height: 100%;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.img-prod{
+    max-height: 200px;
+    min-height: 200px;
+}
